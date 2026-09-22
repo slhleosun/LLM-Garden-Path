@@ -4,7 +4,7 @@ import csv
 
 def query_model(model, prompt):
     # OpenAI API key
-    api_key = "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"
+    api_key = ""
 
     headers = {
         "Content-Type": "application/json",
